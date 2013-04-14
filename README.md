@@ -1,9 +1,8 @@
-
 # vnsEternity2
 ============
 ## About
-This project deals with an implementation of a [Variable Neighborhood Search](http://en.wikipedia.org/wiki/Variable_Neighborhood_Search) approach for solving [Eternity II puzzle](http://en.wikipedia.org/wiki/Eternity_II_puzzle).
-It is a assignment for Optimization methods and algorithms course of MS Computer Engineering at Polytechnic of Turin.  
+This project deals with an implementation of a [Variable Neighborhood Search](http://en.wikipedia.org/wiki/Variable_Neighborhood_Search) approach for solving [Eternity II puzzle](http://en.wikipedia.org/wiki/Eternity_II_puzzle).  
+It is a assignment for Optimization methods and algorithms course of MS Computer Engineering at Polytechnic of Turin in Fall 2012.  
 Please note that not every C files currently included is necessary for the latest version of the program, but they are provided in order to allow successive improvements of the program, (for instance speed starting, shaking for very large neighborhood) .
 
 The files are:
