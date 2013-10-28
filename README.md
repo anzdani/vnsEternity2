@@ -46,7 +46,7 @@ During a restart an additional output is visualized
 ```
 <Global Time> <Number of Restarts> <Best Score among all the Restarts>
 ```
-At the end the colored table of the best score is provided.
+At the end the colored table of the best score is provided. 
 
 ### Visualization
 An additional tool can be used to have a better visualization of the output solution. To run it:
